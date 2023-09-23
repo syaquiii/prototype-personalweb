@@ -7,10 +7,10 @@ module.exports = {
         '200': '2'
       },
       screens: {
-        'xl' : "1500px"
+        'xl': "1500px"
       },
-      colors:{
-        "light-blue" : "#B0D5FC"
+      colors: {
+        "light-blue": "#B0D5FC"
       }
     },
   },
