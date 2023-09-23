@@ -13,7 +13,7 @@ module.exports = {
         "light-blue": "#B0D5FC"
       },
       fontFamily: {
-        Roboto: ['Roboto']
+        Roboto: ['Roboto', 'sans-serif']
       }
     },
   },
