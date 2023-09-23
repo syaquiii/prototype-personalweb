@@ -11,6 +11,9 @@ module.exports = {
       },
       colors: {
         "light-blue": "#B0D5FC"
+      },
+      fontFamily: {
+        Roboto: ['Roboto']
       }
     },
   },
